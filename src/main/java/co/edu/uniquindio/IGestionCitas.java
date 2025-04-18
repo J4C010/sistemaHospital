@@ -1,4 +1,4 @@
-package models;
+package co.edu.uniquindio;
 
 public interface IGestionCitas {
 }
